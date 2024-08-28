@@ -56,7 +56,7 @@ for(let i=0 ; i < people.length ; i++) {
 const personInfo = `<p>
 <strong>Nome:</strong> ${person.name} <br>
 <strong>Ruolo:</strong> ${person.role} <br>
-<strong>Link foto:</strong> <br> <img src="${person.photo}" alt="Foto di ${person.name}" width="100"> 
+<strong>Foto:</strong> <br> <img src="${person.photo}" alt="Foto di ${person.name}" width="200"> 
     </p>`;
 
 
